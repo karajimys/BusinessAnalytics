@@ -1,6 +1,7 @@
 # PracticalDataAnalysis
 
-University of Piraeus /n
+University of Piraeus
+
 Economics Department
 
 "Practical Data Analysis"
