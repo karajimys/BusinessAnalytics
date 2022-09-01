@@ -1,8 +1,6 @@
 # PracticalDataAnalysis
 
-University of Piraeus
-
-Economics Department
+Economics Department, University of Piraeus
 
 Course: **Practical Data Analysis**
 
