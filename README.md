@@ -13,3 +13,4 @@ An undergraduate course for economics students focusing on introductory applicat
 Useful Resourses:
 
 - [Graphics Principles](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
+- [Master Thesis: ΑΝΑΛΥΣΗ ΔΕΔΟΜΕΝΩΝ ΜΕ ΤΗ ΧΡΗΣΗ ΤΗΣ PYTHON](https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/49068/17857.pdf?sequence=1&isAllowed=y)
