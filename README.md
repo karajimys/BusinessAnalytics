@@ -3,4 +3,5 @@
 University of Piraeus
 
 Economics Department
-**Practical Data Analysis**
+
+Course: **Practical Data Analysis**
