@@ -9,3 +9,7 @@ Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamani
 An undergraduate course for economics students focusing on introductory applications of data analysis with Python and Tableau
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Useful Resourses:
+
+- [Graphics Principles](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
