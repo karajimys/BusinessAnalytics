@@ -2,7 +2,7 @@
 
 Economics Department, University of Piraeus, 18534 Piraeus, Greece
 
-Course: **Practical Data Analysis**
+Course: **Business Analytics**
 
 Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamanis/)
 
