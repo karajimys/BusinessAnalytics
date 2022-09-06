@@ -1,4 +1,4 @@
-# PracticalDataAnalysis
+# Business Analytics
 
 Economics Department, University of Piraeus, 18534 Piraeus, Greece
 
