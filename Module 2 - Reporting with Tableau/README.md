@@ -1,6 +1,6 @@
 Module 2 - Reporting with Tableau
 
-[Find and example here](https://www.businessprocessincubator.com/content/tableau-projects-for-practices-sample-superstore/) for reporting step by step using the Sample - Superstore dataset in the [data folder](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau/data)
+[Find an example here](https://www.businessprocessincubator.com/content/tableau-projects-for-practices-sample-superstore/) for reporting step by step using the Sample - Superstore dataset in the [data folder](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau/data)
 
 
 ------------------------------------------------------------------------------------------------------------------------
