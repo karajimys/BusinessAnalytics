@@ -16,7 +16,7 @@ The course consists of three modules:
 ------------------------------------------------------------------------------------------------------------------------
 Install Programs:
 
-- **Tableau**: Create a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) and download **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). You can also download the **Tableau for Students** Edition from [here](https://www.tableau.com/academic/students).
+- **Tableau**: Sign up for a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) and download **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). You can also download the **Tableau for Students** Edition from [here](https://www.tableau.com/academic/students).
 - **Python**: Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment. 
 
 
