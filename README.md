@@ -20,7 +20,3 @@ Install Programs:
 - **Python**: Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment. 
 
 
-Useful Resourses:
-
-- [Graphics Principles](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
-
