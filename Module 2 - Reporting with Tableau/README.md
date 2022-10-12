@@ -5,7 +5,7 @@
 
 </p>
 
-# Module 2 - Reporting with Tableau
+## Module 2 - Reporting with Tableau
 
 
 1) [Tableau Reporting](https://data-flair.training/blogs/tableau-reporting/)
