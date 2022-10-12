@@ -1,4 +1,4 @@
-![My Image](images/unipi logo_en.png)
+![My Image](/images/unipi logo_en.png)
 
 # Business Analytics
 
