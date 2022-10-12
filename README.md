@@ -1,4 +1,6 @@
+<p align="center">
 <img src="images/unipi_logo.png">
+</p>
 
 # Business Analytics
 
