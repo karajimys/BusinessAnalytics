@@ -16,7 +16,7 @@ Graphs in Tableau - Youtube Videos:
 
 - [Scatter Plot](https://www.youtube.com/watch?v=lCKZinAH6bc&ab_channel=TutorialsPoint%28India%29Ltd.)
 - [Word Cloud](https://www.youtube.com/watch?v=xFLVfkJ1AbY&ab_channel=ArtofVisualization)
-- [Dashboard Example](https://www.youtube.com/watch?v=_qReGTOrKTk&ab_channel=StanleyGeorgeJoseph)
+- [Dashboard Creation Example](https://www.youtube.com/watch?v=_qReGTOrKTk&ab_channel=StanleyGeorgeJoseph)
 
 
 
