@@ -1,5 +1,9 @@
 
+<p align="center">
 
+<img src="https://github.com/karajimys/BusinessAnalytics/blob/main/images/python_icon.jpg" width="150" height="150">
+
+</p>
 
 ------------------------------------------------------------------------------------------------------------------------
 Useful Resourses:
