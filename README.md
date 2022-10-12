@@ -1,3 +1,4 @@
+![My Image](images/unipi logo_en.png)
 # Business Analytics
 
 Economics Department, University of Piraeus, 18534 Piraeus, Greece
