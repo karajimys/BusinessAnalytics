@@ -1,4 +1,4 @@
-![My Image](https://github.com/karajimys/BusinessAnalytics/tree/main/images/unipi_logo.jpeg?raw=true "Title")
+![unipi_logo](https://user-images.githubusercontent.com/7208848/195366728-f98c4224-6918-4f0b-ac66-8db09946c090.jpg)
 
 # Business Analytics
 
