@@ -5,6 +5,7 @@ Economics Department, University of Piraeus, 18534 Piraeus, Greece
 Course: **Business Analytics**
 
 Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamanis/)
+
 Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
 
 An undergraduate course for economics students focusing on introductory applications of data analysis with Tableau and Python.
