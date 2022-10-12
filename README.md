@@ -1,4 +1,4 @@
-![unipi_logo](https://user-images.githubusercontent.com/7208848/195366986-102c25eb-89db-4cf6-a91f-dfd9f5bc8c21.png)
+![unipi_en](https://user-images.githubusercontent.com/7208848/195367300-3559566e-a8a5-4d60-98dd-c26ba2536388.jpg)
 
 
 # Business Analytics
