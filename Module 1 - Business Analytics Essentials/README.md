@@ -1,3 +1,10 @@
+<p align="center">
+
+<img src="https://github.com/karajimys/BusinessAnalytics/blob/main/images/ba_process.png">
+</p>
+
+
+
 
 Interesting Material!
 
