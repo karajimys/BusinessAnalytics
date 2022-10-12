@@ -1,5 +1,9 @@
 ![unipi_en](https://user-images.githubusercontent.com/7208848/195367300-3559566e-a8a5-4d60-98dd-c26ba2536388.jpg)
 
+Economics Department, University of Piraeus, 18534 Piraeus, Greece
+
+
+![](images/unipi_en.jpeg)
 
 # Business Analytics
 
@@ -28,4 +32,3 @@ Install Programs:
 ------------------------------------------------------------------------------------------------------------------------
 Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
 
-![](images/unipi_en.jpeg)
