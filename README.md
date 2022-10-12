@@ -1,4 +1,4 @@
-[My Image](images/unipi logo_en.png)
+[My Image]([images/unipi logo_en.png](https://github.com/karajimys/BusinessAnalytics/blob/main/images/unipi%20logo_en.png)
 # Business Analytics
 
 Economics Department, University of Piraeus, 18534 Piraeus, Greece
