@@ -1,4 +1,4 @@
-![My Image](https://github.com/karajimys/BusinessAnalytics/tree/main/images/unipi_logo.png)
+![My Image](https://github.com/karajimys/BusinessAnalytics/tree/main/images/unipi_logo.jpeg)
 
 # Business Analytics
 
