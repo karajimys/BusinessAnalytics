@@ -3,7 +3,7 @@
 <img src="https://github.com/karajimys/BusinessAnalytics/blob/main/images/ba_process.png">
 </p>
 
-
+# Module 1 - Business Analytics Essentials
 
 
 Interesting Material!
