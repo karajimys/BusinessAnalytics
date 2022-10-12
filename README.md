@@ -8,6 +8,7 @@ Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamani
 
 An undergraduate course for economics students focusing on introductory applications of data analysis with Tableau and Python.
 
+Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
 ------------------------------------------------------------------------------------------------------------------------
 The course consists of three modules:
 - [Module 1 - Business Analytics Essentials](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%201%20-%20Business%20Analytics%20Essentials)
