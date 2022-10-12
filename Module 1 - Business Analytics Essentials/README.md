@@ -1,9 +1,9 @@
 <p align="center">
 
-<img src="https://github.com/karajimys/BusinessAnalytics/blob/main/images/ba_process.png">
+<img src="https://github.com/karajimys/BusinessAnalytics/blob/main/images/ba_process.png" width="450" height="450">
 </p>
 
-# Module 1 - Business Analytics Essentials
+## Module 1 - Business Analytics Essentials
 
 
 Interesting Material!
