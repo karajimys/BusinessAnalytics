@@ -29,6 +29,13 @@ Useful Resourses for Tableau:
 
 - [Tableau Resources](https://www.tableau.com/resources)   
 
+------------------------------------------------------------------------------------------------------------------------
+
+Dashboard Examples:
+
+ - [Titanic Dashboard](https://public.tableau.com/views/TitanicDashboard/TitanicbytheNumbers?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
+
+------------------------------------------------------------------------------------------------------------------------
 
 Useful Resourses for Graphs:
 
