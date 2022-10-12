@@ -1,4 +1,4 @@
-<img src="images/unipi_en.jpg">
+<img src="images/unipi_logo.png">
 
 # Business Analytics
 
