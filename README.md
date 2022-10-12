@@ -2,9 +2,6 @@
 
 Economics Department, University of Piraeus, 18534 Piraeus, Greece
 
-
-![Image](images/unipi_en.jpeg)
-
 # Business Analytics
 
 Economics Department, University of Piraeus, 18534 Piraeus, Greece
