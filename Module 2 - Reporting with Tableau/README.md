@@ -1,4 +1,11 @@
-Module 2 - Reporting with Tableau
+
+<p align="center">
+
+<img src="https://github.com/karajimys/BusinessAnalytics/blob/main/images/tableau_logo.png" >
+
+</p>
+
+# Module 2 - Reporting with Tableau
 
 
 1) [Tableau Reporting](https://data-flair.training/blogs/tableau-reporting/)
