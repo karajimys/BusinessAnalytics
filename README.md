@@ -6,7 +6,6 @@ Course: **Business Analytics**
 
 Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamanis/)
 
-Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
 
 An undergraduate course for economics students focusing on introductory applications of data analysis with Tableau and Python.
 
@@ -21,4 +20,5 @@ Install Programs:
 - **Tableau**: Sign up for a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) and download **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). You can also download (if you want) the **Tableau for Students** Edition from [here](https://www.tableau.com/academic/students).
 - **Python**: Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment. 
 
-
+------------------------------------------------------------------------------------------------------------------------
+Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
