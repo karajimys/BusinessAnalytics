@@ -1,9 +1,0 @@
-In the site: https://www.programiz.com/sql/online-compiler/
-
-SELECT * FROM Customers;
-
-SELECT Customers.first_name, Customers.last_name 
-FROM Customers 
-INNER JOIN Orders
-ON Orders.customer_id = Customers.customer_id
-WHERE   Orders.amount==400;
