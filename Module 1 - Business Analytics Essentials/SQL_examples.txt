@@ -14,7 +14,7 @@ SELECT country
 FROM Customers
 WHERE age>25;
 
---Find Customers first and last name with order of amount 400
+--Find Customers' first and last name with amount 400 of orders
 SELECT Customers.first_name, Customers.last_name 
 FROM Customers 
 INNER JOIN Orders
