@@ -1,4 +1,6 @@
-In the site: https://www.programiz.com/sql/online-compiler/
+Try some queries in the site below. There are tables of Customers, Orders, and Shipping: 
+[https://www.programiz.com/sql/online-compiler/](https://www.programiz.com/sql/online-compiler/)
+
 --Choose all columns from Customers Table
 SELECT * FROM Customers;
 
