@@ -17,7 +17,7 @@ Useful Resourses:
 - [Master Thesis: Ανάλυση Δεδομένων με τη χρήση Python](https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/49068/17857.pdf?sequence=1&isAllowed=y)
 
 Repositories:
-
+- [Intro to Python for Data Analysis](https://github.com/tomsharp/intro-to-python-for-data-analysis)
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 
 
