@@ -9,6 +9,8 @@
 ## Module 3 - Introduction to Python for Analytics
 
 ------------------------------------------------------------------------------------------------------------------------
+You can run Python online [here](https://trinket.io/embed/python3/a5bd54189b)
+
 Useful Resourses:
 
 - [Εισαγωγή στον προγραμματισμό με την Python](http://aggelid.mysch.gr/pythonbook/)
