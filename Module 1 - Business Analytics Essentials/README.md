@@ -9,4 +9,5 @@
 Interesting Material!
 
 - [Always be sceptical with summary statistics!](https://www.autodesk.com/research/publications/same-stats-different-graphs)
-- [Try SQL online!](https://www.programiz.com/sql/online-compiler/)
+- [SQL online!](https://www.programiz.com/sql/online-compiler/)
+- [More SQL online!](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_where)
