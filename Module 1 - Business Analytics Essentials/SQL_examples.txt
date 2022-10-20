@@ -1,6 +1,7 @@
+--------------------------------------------------------------------------------------------------------------------------------
 Try some queries in the site below. There are tables of Customers, Orders, and Shipping: 
 https://www.programiz.com/sql/online-compiler/
-
+--------------------------------------------------------------------------------------------------------------------------------
 --Choose all columns from Customers Table
 SELECT * FROM Customers;
 
@@ -20,3 +21,18 @@ FROM Customers
 INNER JOIN Orders
 ON Orders.customer_id = Customers.customer_id
 WHERE  Orders.amount==400;
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Try more queries in the site below. There are 8 different tables available:
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_where
+--------------------------------------------------------------------------------------------------------------------------------
+--Find Cities of Germany by Descending number of Orders
+Select c.City, c.Country, Count(OrderID) as No_of_orders
+From Customers C
+Inner Join Orders o
+On c.CustomerID = o.CustomerID
+Where c.Country = 'Germany'
+Group By c.City
+Order by No_of_orders Desc
