@@ -27,7 +27,7 @@ Useful Resourses for Tableau:
 - [The Office of Health Informatics and Analytics (OHIA): Tableau 102 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/Tableau102%20Training%20Guide.pdf)
 - [The Office of Health Informatics and Analytics (OHIA): Tableau 103 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/TAB103%20Training%20Guide.pdf)
 
-- [Tableau Resources](https://www.tableau.com/resources)   
+- [Tableau Public Resources](https://public.tableau.com/app/resources/learn)   
 
 ------------------------------------------------------------------------------------------------------------------------
 
