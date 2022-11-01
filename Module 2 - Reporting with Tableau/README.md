@@ -7,9 +7,10 @@
 
 ## Module 2 - Reporting with Tableau
 
-1) [ START HERE](https://public.tableau.com/app/resources/learn)   
+1) [START HERE](https://public.tableau.com/app/resources/learn)   
 2) [Tableau Reporting](https://data-flair.training/blogs/tableau-reporting/)
 3) [Find a first example here](https://www.businessprocessincubator.com/content/tableau-projects-for-practices-sample-superstore/) for reporting step by step using the Sample - Superstore dataset from the [data folder](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau/data).
+4) Another [Sample-Superstore Example](https://www.youtube.com/watch?v=TwALdb9RIvE&ab_channel=AnitaDevkar)
 
 ------------------------------------------------------------------------------------------------------------------------
 Graphs in Tableau - Youtube Videos:
