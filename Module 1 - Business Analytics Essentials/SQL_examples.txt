@@ -30,7 +30,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_where
 --------------------------------------------------------------------------------------------------------------------------------
 --Find Cities of Germany by Descending number of Orders
 Select c.City, c.Country, Count(OrderID) as No_of_orders
-From Customers C
+From Customers c
 Inner Join Orders o
 On c.CustomerID = o.CustomerID
 Where c.Country = 'Germany'
