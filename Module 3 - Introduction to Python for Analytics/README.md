@@ -12,7 +12,7 @@
 You can run Python online [here](https://trinket.io/embed/python3/a5bd54189b)
 
 Useful Resourses:
-
+- [Python for Data Analysis](https://wesmckinney.com/book/)
 - [Εισαγωγή στον προγραμματισμό με την Python](http://aggelid.mysch.gr/pythonbook/)
 - [Master Thesis: Ανάλυση Δεδομένων με τη χρήση Python](https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/49068/17857.pdf?sequence=1&isAllowed=y)
 
