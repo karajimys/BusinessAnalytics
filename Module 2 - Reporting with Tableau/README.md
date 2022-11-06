@@ -36,10 +36,6 @@ Dashboard Examples:
 
  - [Titanic Dashboard](https://public.tableau.com/views/TitanicDashboard/TitanicbytheNumbers?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
-------------------------------------------------------------------------------------------------------------------------
 
-Useful Resourses for Graphs:
-
-- [Graphics Principles](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
 
 
