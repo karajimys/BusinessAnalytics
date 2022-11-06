@@ -7,17 +7,17 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------
-Statistics:
+**Statistics**:
 - [Always be sceptical with summary statistics!](https://www.autodesk.com/research/publications/same-stats-different-graphs)
 
 
 ------------------------------------------------------------------------------------------------------------------------
-Graphs:
+**Graphs**:
 - [Graphics Principles](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
 
 
 ------------------------------------------------------------------------------------------------------------------------
-SQL:
+**SQL**:
 
 - [SQL online!](https://www.programiz.com/sql/online-compiler/)
 - [More SQL online!](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_where)
