@@ -24,6 +24,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 **Analytics** in Tableau:
 
+- [Forecasting](https://community.tableau.com/s/question/0D54T00000C6V3USAV/step-by-step-forecast-in-tableau)
 - [Clusters](https://www.absentdata.com/cluster-tableau/)
 
 ------------------------------------------------------------------------------------------------------------------------
