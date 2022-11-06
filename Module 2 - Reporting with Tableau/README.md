@@ -13,7 +13,7 @@
 4) Another [Sample-Superstore Example](https://www.youtube.com/watch?v=TwALdb9RIvE&ab_channel=AnitaDevkar)
 
 ------------------------------------------------------------------------------------------------------------------------
-Graphs in Tableau - Youtube Videos:
+**Graphs** in Tableau:
 
 - [Scatter Plot](https://www.youtube.com/watch?v=lCKZinAH6bc&ab_channel=TutorialsPoint%28India%29Ltd.)
 - [Donut Chart](https://www.youtube.com/watch?v=ZfpUzp8mBSw&ab_channel=DataEmbassy)
@@ -21,17 +21,21 @@ Graphs in Tableau - Youtube Videos:
 - [Dashboard Creation Example](https://www.youtube.com/watch?v=_qReGTOrKTk&ab_channel=StanleyGeorgeJoseph)
 
 
+------------------------------------------------------------------------------------------------------------------------
+**Analytics** in Tableau:
+
+- [Clusters](https://www.absentdata.com/cluster-tableau/)
 
 ------------------------------------------------------------------------------------------------------------------------
-
 Useful Resourses for Tableau:
+
 - [Total Youtube Tutorial!!!](https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=1&ab_channel=TutorialsPoint%28India%29Ltd.)
 - [The Office of Health Informatics and Analytics (OHIA): Tableau 102 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/Tableau102%20Training%20Guide.pdf)
 - [The Office of Health Informatics and Analytics (OHIA): Tableau 103 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/TAB103%20Training%20Guide.pdf)
 
 
-------------------------------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------------------------------------
 Dashboard Examples:
 
  - [Titanic Dashboard](https://public.tableau.com/views/TitanicDashboard/TitanicbytheNumbers?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
