@@ -9,7 +9,7 @@
 
 1) Start from [HERE](https://public.tableau.com/app/resources/learn) and [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm)
 2) [Tableau Reporting](https://data-flair.training/blogs/tableau-reporting/)
-3) [Find a first example here](https://www.businessprocessincubator.com/content/tableau-projects-for-practices-sample-superstore/) for reporting step by step using the Sample - Superstore dataset from the [data folder](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau/data).
+3) [Find an example here](https://www.businessprocessincubator.com/content/tableau-projects-for-practices-sample-superstore/) for reporting step by step using the Sample - Superstore dataset from the [data folder](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau/data).
 4) Another [Sample-Superstore Example](https://www.youtube.com/watch?v=TwALdb9RIvE&ab_channel=AnitaDevkar)
 
 ------------------------------------------------------------------------------------------------------------------------
