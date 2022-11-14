@@ -28,4 +28,8 @@ Github Repositories:
 - [Intro to Python for Data Analysis](https://github.com/tomsharp/intro-to-python-for-data-analysis)
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 
+------------------------------------------------------------------------------------------------------------------------
+Go to:
+- [Module 1 - Business Analytics Essentials](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%201%20-%20Business%20Analytics%20Essentials)
+- [Module 2 - Reporting with Tableau](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau)
 
