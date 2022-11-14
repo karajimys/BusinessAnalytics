@@ -43,5 +43,8 @@ Dashboard Examples:
  - [Titanic Dashboard](https://public.tableau.com/views/TitanicDashboard/TitanicbytheNumbers?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
 
-
+------------------------------------------------------------------------------------------------------------------------
+Go to:
+- [Module 1 - Business Analytics Essentials](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%201%20-%20Business%20Analytics%20Essentials)
+- [Module 3 - Introduction to Python for Analytics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics)
 
