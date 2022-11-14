@@ -6,6 +6,8 @@
 ## Module 1 - Business Analytics Essentials
 
 
+You can find the introductory lectures of the course [here](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%201%20-%20Business%20Analytics%20Essentials/Lectures)
+
 ------------------------------------------------------------------------------------------------------------------------
 **Statistics**:
 - [Always be sceptical with summary statistics!](https://www.autodesk.com/research/publications/same-stats-different-graphs)
