@@ -25,6 +25,7 @@ You can find the introductory lectures of the course [here](https://github.com/k
 - [More SQL online!](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_where)
 
 
+------------------------------------------------------------------------------------------------------------------------
 Go to:
 - [Module 2 - Reporting with Tableau](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau)
 - [Module 3 - Introduction to Python for Analytics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics)
