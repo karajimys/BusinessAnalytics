@@ -8,13 +8,13 @@
 
 ## Module 3 - Introduction to Python for Analytics
 
-### Above you will find the lectures for the present module of the course
-
 Use the *.html files if you want to explore the lectures
 
 Use the *.py files in Spyder platform
 
 Use the *.ipynb files in Jupyter Notebook
+
+- [Python Basics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/1.%20Python%20Basics)
 
 ------------------------------------------------------------------------------------------------------------------------
 You can run Python online [here](https://trinket.io/embed/python3/a5bd54189b)
