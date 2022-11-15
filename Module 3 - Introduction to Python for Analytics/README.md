@@ -14,7 +14,7 @@ Use the *.ipynb files here in github in Jupyter Notebook
 
 Use the *.py files in Spyder platform
 
-- [Python Basics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/1.%20Python%20Basics)
+- [1. Python Basics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/1.%20Python%20Basics)
 
 ------------------------------------------------------------------------------------------------------------------------
 You can run Python online [here](https://trinket.io/embed/python3/a5bd54189b)
