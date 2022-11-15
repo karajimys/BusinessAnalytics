@@ -27,7 +27,7 @@ Install Programs:
 - **Tableau**: Sign up for a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) and download **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). 
   - For older versions of the program click [here](https://www.tableau.com/support/releases?_ga=2.163094654.312440662.1665430260-281830350.1663861749)
   - You can also download (if you want) the **Tableau for Students** Edition from [here](https://www.tableau.com/academic/students).
-- **Python**: Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment as well as **Jupyter Notebook**. 
+- **Python**: Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment as well as the **Jupyter Notebook**. 
 
 ------------------------------------------------------------------------------------------------------------------------
 Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
