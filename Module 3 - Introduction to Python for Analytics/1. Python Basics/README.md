@@ -7,4 +7,6 @@ Use the *.py files in Spyder platform
 
 ----------------------------------------------------------------------------------
 
-I order to **download** a file, left click on it---> then Right Click on the Raw Button --> Save As..
+I order to **download** a file:
+
+First left click on it---> then Right Click on the Raw Button --> Save As..
