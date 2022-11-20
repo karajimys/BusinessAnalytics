@@ -9,4 +9,4 @@ Use the *.py files in Spyder platform
 
 I order to **download** a file:
 
-First **Left click** on it---> then **Right Click** on the Raw Button --> **Save link as**..
+First **Left click** on it---> then **Right Click** on the **Raw Button** --> **Save link as**..
