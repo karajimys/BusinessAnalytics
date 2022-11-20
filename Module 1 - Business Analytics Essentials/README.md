@@ -10,6 +10,7 @@ You can find the introductory lectures of the course [here](https://github.com/k
 
 ------------------------------------------------------------------------------------------------------------------------
 **Statistics**:
+- [Elementary Statistics](https://github.com/karajimys/BusinessAnalytics/blob/main/Module%201%20-%20Business%20Analytics%20Essentials/Elements%20of%20Statistics.pdf) in Greek
 - [Always be sceptical with summary statistics!](https://www.autodesk.com/research/publications/same-stats-different-graphs)
 
 
