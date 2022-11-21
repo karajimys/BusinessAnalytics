@@ -8,7 +8,7 @@
 
 ## Module 3 - Introduction to Python for Analytics
 
-Lectures (use the data available in the folder above to reproduce the analysis):
+Lectures (use the data available in the folder above to reproduce the analysis - create a folder named "data" in the folder where you have the *py or the *ipynb files):
 
 [1. Python Basics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/1.%20Python%20Basics)
 
