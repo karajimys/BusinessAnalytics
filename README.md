@@ -24,10 +24,13 @@ The course consists of three modules:
 ------------------------------------------------------------------------------------------------------------------------
 Install Programs:
 
-- **Tableau**: Sign up with your **personal e-mail** for a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) and download with your **academic e-mail** the **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). 
-  - For older versions of the program click [here](https://www.tableau.com/support/releases?_ga=2.163094654.312440662.1665430260-281830350.1663861749)
-  - You can also download (if you want) the **Tableau for Students** Edition from [here](https://www.tableau.com/academic/students).
-- **Python**: Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment as well as the **Jupyter Notebook**. 
+- **Tableau**:
+  - Sign up with your **personal e-mail** for a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) 
+  - Download with your **academic e-mail** the **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). 
+    - For older versions of the program click [here](https://www.tableau.com/support/releases?_ga=2.163094654.312440662.1665430260-281830350.1663861749)
+    - You can also download (if you want) the **Tableau for Students** Edition from [here](https://www.tableau.com/academic/students).
+- **Python**: 
+  - Download the **Anaconda** distribution from [here](https://www.anaconda.com/products/distribution) in order to use the **Spyder** scientific environment as well as the **Jupyter Notebook**. 
 
 ------------------------------------------------------------------------------------------------------------------------
 Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)!
