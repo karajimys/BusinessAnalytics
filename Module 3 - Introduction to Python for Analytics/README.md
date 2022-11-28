@@ -14,7 +14,9 @@ Lectures (use the data available in the folder above to reproduce the analysis -
 
 [2. Data Manipulation](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/2.%20Data%20Manipulation)
 
-Instructions on how to use Juyter Notebook you can fine [here](https://github.com/karajimys/BusinessAnalytics/blob/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AD%CF%82%20%CE%9B%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B5%CF%82%20Jupyter%20Notebook.pdf)
+Instructions on how to use **Jupyter Notebook** you can find [here](https://github.com/karajimys/BusinessAnalytics/blob/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AD%CF%82%20%CE%9B%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B5%CF%82%20Jupyter%20Notebook.pdf)
+
+
 ------------------------------------------------------------------------------------------------------------------------
 You can run Python online [here](https://trinket.io/embed/python3/a5bd54189b)
 
