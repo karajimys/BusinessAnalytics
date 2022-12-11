@@ -51,6 +51,7 @@ Dashboard Examples:
 
 ------------------------------------------------------------------------------------------------------------------------
 Go to:
+- [Main](https://github.com/karajimys/BusinessAnalytics)
 - [Module 1 - Business Analytics Essentials](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%201%20-%20Business%20Analytics%20Essentials)
 - [Module 3 - Introduction to Python for Analytics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics)
 
