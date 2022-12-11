@@ -14,12 +14,17 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 **Graphs** in Tableau:
-
-- [Scatter Plot](https://www.youtube.com/watch?v=lCKZinAH6bc&ab_channel=TutorialsPoint%28India%29Ltd.)
-- [Donut Chart](https://www.youtube.com/watch?v=ZfpUzp8mBSw&ab_channel=DataEmbassy)
-- [Word Cloud](https://www.youtube.com/watch?v=xFLVfkJ1AbY&ab_channel=ArtofVisualization)
 - [**Dashboard** Creation Example](https://www.youtube.com/watch?v=_qReGTOrKTk&ab_channel=StanleyGeorgeJoseph)
 - [**Story** Creation Example](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353)
+- [Scatter Plot](https://www.youtube.com/watch?v=lCKZinAH6bc&ab_channel=TutorialsPoint%28India%29Ltd.)
+- [Bar Chart & Stacked Chart](https://www.youtube.com/watch?v=gUSevSBvLwU&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=60&ab_channel=TutorialsPoint)
+- [Line Chart](https://www.youtube.com/watch?v=XNSB3COfIZU&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=57&ab_channel=TutorialsPoint)
+- [Pie Chart](https://www.youtube.com/watch?v=VwTKlCXy4RE&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=65&ab_channel=TutorialsPoint)
+- [Donut Chart](https://www.youtube.com/watch?v=ZfpUzp8mBSw&ab_channel=DataEmbassy)
+- [Word Cloud](https://www.youtube.com/watch?v=xFLVfkJ1AbY&ab_channel=ArtofVisualization)
+- [Bubble Chart](https://www.youtube.com/watch?v=HlUBnpvhY4c&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=59&ab_channel=TutorialsPoint)
+- [Tree Map](https://www.youtube.com/watch?v=aK8AXftPcPQ&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=62&ab_channel=TutorialsPoint)
+- [Geographical Map](https://www.youtube.com/watch?v=X0n0s0gzcvE&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=66&ab_channel=TutorialsPoint)
 
 ------------------------------------------------------------------------------------------------------------------------
 **Analytics** in Tableau:
