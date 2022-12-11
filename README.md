@@ -38,10 +38,10 @@ Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)
 
 
 ------------------------------------------------------------------------------------------------------------------------
-**Quick Instructions for the Assignment**:
+## Quick Steps for the Assignment:
 1. Create a **Tableau Public Profile** and install the **Tableau Desktop Public Edition** following the instructions above
 2. See basic videos [HERE](https://public.tableau.com/app/resources/learn) and  instructions [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm). For more content see [Module 2](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau)
-3. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353)
+3. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353) following the instructions
 4. [Save](https://www.youtube.com/watch?v=ovZJyqLaypY&ab_channel=2021TableauCourse) it on your **Tableau Public Profile** 
 
 
