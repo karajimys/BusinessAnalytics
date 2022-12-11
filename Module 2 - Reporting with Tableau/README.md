@@ -19,7 +19,7 @@
 - [Donut Chart](https://www.youtube.com/watch?v=ZfpUzp8mBSw&ab_channel=DataEmbassy)
 - [Word Cloud](https://www.youtube.com/watch?v=xFLVfkJ1AbY&ab_channel=ArtofVisualization)
 - [Dashboard Creation Example](https://www.youtube.com/watch?v=_qReGTOrKTk&ab_channel=StanleyGeorgeJoseph)
-
+- [Story Creation Example](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353)
 
 ------------------------------------------------------------------------------------------------------------------------
 **Analytics** in Tableau:
