@@ -49,6 +49,15 @@ Dashboard Examples:
 
 
 ------------------------------------------------------------------------------------------------------------------------
+Quick Instructions for the Assignment:
+1. Install **Tableau**:
+   - Sign up with your **personal e-mail** for a **Tableau Public Profile** [here](https://public.tableau.com/app/discover) 
+   - Download with your **academic e-mail** the **Tableau Desktop Public Edition** from [here](https://www.tableau.com/products/public/download). 
+2. See basics [HERE](https://public.tableau.com/app/resources/learn) and [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm)
+3. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353)
+4. [Save](https://www.youtube.com/watch?v=ovZJyqLaypY&ab_channel=2021TableauCourse) it on your **Tableau Public Profile** 
+
+------------------------------------------------------------------------------------------------------------------------
 Go to:
 - [Module 1 - Business Analytics Essentials](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%201%20-%20Business%20Analytics%20Essentials)
 - [Module 3 - Introduction to Python for Analytics](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics)
