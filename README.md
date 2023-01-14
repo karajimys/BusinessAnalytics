@@ -12,7 +12,7 @@ Professors: [Yannis A. Pollalis](https://www.unipi.gr/unipi/en/yannis.html), [At
 
 Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamanis/)
 
-E-mail: karajimys@gmail.com or karamanis@unipi.gr  
+E-mail: karajimys@gmail.com  
 
 An undergraduate course for economics students focusing on introductory applications of data analysis with Tableau and Python.
 
