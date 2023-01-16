@@ -18,6 +18,7 @@
 - [**Story** Creation Example](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353)
 - [Scatter Plot](https://www.youtube.com/watch?v=lCKZinAH6bc&ab_channel=TutorialsPoint%28India%29Ltd.)
 - [Bar Chart & Stacked Chart](https://www.youtube.com/watch?v=gUSevSBvLwU&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=60&ab_channel=TutorialsPoint)
+- [Horizontal Bar](https://www.youtube.com/watch?v=PHtgi9yR6mQ&ab_channel=Mr.MathExpert)
 - [Line Chart](https://www.youtube.com/watch?v=XNSB3COfIZU&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=57&ab_channel=TutorialsPoint)
 - [Pie Chart](https://www.youtube.com/watch?v=VwTKlCXy4RE&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=65&ab_channel=TutorialsPoint)
 - [Donut Chart](https://www.youtube.com/watch?v=ZfpUzp8mBSw&ab_channel=DataEmbassy)
