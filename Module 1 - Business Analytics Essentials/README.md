@@ -11,7 +11,7 @@ You can find the introductory lectures of the course [here](https://github.com/k
 ------------------------------------------------------------------------------------------------------------------------
 **Statistics**:
 - [Elementary Statistics](https://github.com/karajimys/BusinessAnalytics/blob/main/Module%201%20-%20Business%20Analytics%20Essentials/Elementary%20Statistics.pdf) in Greek
-- [Always be sceptical with summary statistics!](https://www.autodesk.com/research/publications/same-stats-different-graphs)
+- [Always be sceptical with summary statistics!](https://github.com/khuyentran1401/same-stats-different-graphs)
 
 
 ------------------------------------------------------------------------------------------------------------------------
