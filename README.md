@@ -1,6 +1,8 @@
+<!--
 <p align="center">
 <img src="images/unipi_logo.png">
 </p>
+-->
 
 # Business Analytics
 
@@ -8,7 +10,7 @@
 
 Course: **Business Analytics**
 
-Professors: [Yannis A. Pollalis](https://www.unipi.gr/unipi/en/yannis.html), [Athanassios Vozikis](https://www.unipi.gr/unipi/en/avozik.html)
+<!--Professors: [Yannis A. Pollalis](https://www.unipi.gr/unipi/en/yannis.html), [Athanassios Vozikis](https://www.unipi.gr/unipi/en/avozik.html) -->
 
 Instructor: [Dimitrios Karamanis](https://www.linkedin.com/in/dimitrios-karamanis/)
 
