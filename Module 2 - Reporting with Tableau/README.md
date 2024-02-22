@@ -48,7 +48,12 @@ Dashboard Examples:
 
  - [Titanic Dashboard](https://public.tableau.com/views/TitanicDashboard/TitanicbytheNumbers?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
-
+------------------------------------------------------------------------------------------------------------------------
+<!--## Quick Steps for the Tableau Assignment:-->
+## Quick Steps to start with Tableau:
+1. Sign up for a [Tableau Public Profile](https://public.tableau.com/app/discover) and install the [Tableau Desktop Public Edition](https://www.tableau.com/products/public/download) following the instructions above
+2. See basics [HERE](https://public.tableau.com/app/resources/learn) and [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm). For more content see [Module 2](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau)
+3. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353) and [save](https://www.youtube.com/watch?v=ovZJyqLaypY&ab_channel=2021TableauCourse) it on your **Tableau Public Profile** 
 
 ------------------------------------------------------------------------------------------------------------------------
 Go to:
