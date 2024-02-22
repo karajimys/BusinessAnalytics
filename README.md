@@ -40,12 +40,14 @@ Follow on instagram [@mydataworld](https://www.instagram.com/mydataworld/?hl=en)
 
 
 ------------------------------------------------------------------------------------------------------------------------
-## Quick Steps for the Tableau Assignment:
+<!--## Quick Steps for the Tableau Assignment:-->
+## Quick Steps to start with Tableau:
 1. Sign up for a [Tableau Public Profile](https://public.tableau.com/app/discover) and install the [Tableau Desktop Public Edition](https://www.tableau.com/products/public/download) following the instructions above
 2. See basics [HERE](https://public.tableau.com/app/resources/learn) and [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm). For more content see [Module 2](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau)
 3. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353) and [save](https://www.youtube.com/watch?v=ovZJyqLaypY&ab_channel=2021TableauCourse) it on your **Tableau Public Profile** 
 
-## Quick Steps for the Python Assignment:
+<!--## Quick Steps for the Python Assignment:-->
+## Quick Steps to start with Python:
 1. Install [Anaconda](https://www.anaconda.com/products/distribution) in order to use Jupyter Notebook
 2. See the instructions on how to use [Jupyter Notebook](https://github.com/karajimys/BusinessAnalytics/blob/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AD%CF%82%20%CE%9B%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B5%CF%82%20Jupyter%20Notebook.pdf)
 3. Follow similar examples from lectures on [Data Manipulation](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/2.%20Data%20Manipulation) and [Data Visualization](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%203%20-%20Introduction%20to%20Python%20for%20Analytics/3.%20Data%20Visualization)
