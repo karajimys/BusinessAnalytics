@@ -38,8 +38,8 @@
 Useful Resourses for Tableau:
 
 - [Total Youtube Tutorial!!!](https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK&index=1&ab_channel=TutorialsPoint%28India%29Ltd.)
-- [The Office of Health Informatics and Analytics (OHIA): Tableau 102 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/Tableau102%20Training%20Guide.pdf)
-- [The Office of Health Informatics and Analytics (OHIA): Tableau 103 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/TAB103%20Training%20Guide.pdf)
+<!--  - [The Office of Health Informatics and Analytics (OHIA): Tableau 102 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/Tableau102%20Training%20Guide.pdf)  -->
+<!--  - [The Office of Health Informatics and Analytics (OHIA): Tableau 103 User Guide](https://it.uclahealth.org/sites/g/files/oketem206/files/media/documents/TAB103%20Training%20Guide.pdf)  -->
 
 
 
