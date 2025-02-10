@@ -7,7 +7,7 @@
 
 ## Module 2 - Reporting with Tableau
 
-1) Start from [HERE](https://public.tableau.com/app/resources/learn) and [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm)
+1) Start from [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm) and [HERE](https://public.tableau.com/app/resources/learn)
 2) [Tableau Reporting](https://data-flair.training/blogs/tableau-reporting/)
 3) [Find an example here](https://www.businessprocessincubator.com/content/tableau-projects-for-practices-sample-superstore/) for reporting step by step using the Sample - Superstore dataset from the [data folder](https://github.com/karajimys/BusinessAnalytics/tree/main/Module%202%20-%20Reporting%20with%20Tableau/data).
 4) Another [Sample-Superstore Example](https://www.youtube.com/watch?v=TwALdb9RIvE&ab_channel=AnitaDevkar)
@@ -51,9 +51,10 @@ Dashboard Examples:
 ------------------------------------------------------------------------------------------------------------------------
 <!--## Quick Steps for the Tableau Assignment:-->
 ## Quick Steps to start with Tableau:
-1. Sign up for a [Tableau Public Profile](https://public.tableau.com/app/discover) and install the [Tableau Desktop Public Edition](https://www.tableau.com/products/public/download) following the instructions above
-2. See basics [HERE](https://public.tableau.com/app/resources/learn) and [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm). 
-3. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353) and [save](https://www.youtube.com/watch?v=ovZJyqLaypY&ab_channel=2021TableauCourse) it on your **Tableau Public Profile** 
+1. Sign up for a [Tableau Public Profile](https://public.tableau.com/app/discover) and install the [Tableau Desktop Public Edition](https://www.tableau.com/products/public/download) following the instructions above.
+2. Download this [dataset](https://github.com/karajimys/BusinessAnalytics/blob/main/Module%202%20-%20Reporting%20with%20Tableau/data/Sample%20Superstore.xls).
+3. See basics [HERE](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm) and [HERE](https://public.tableau.com/app/resources/learn).
+4. Create a [Story](https://www.youtube.com/watch?v=FgVnTwGqlfM&ab_channel=Marketing353) and [save](https://www.youtube.com/watch?v=ovZJyqLaypY&ab_channel=2021TableauCourse) it on your **Tableau Public Profile**.
 
 ------------------------------------------------------------------------------------------------------------------------
 Go to:
